@@ -1,0 +1,1 @@
+{0: 'Bacterialblight', 1: 'Brownspot'}
